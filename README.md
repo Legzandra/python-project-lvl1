@@ -6,3 +6,6 @@
 
 ### workflows Badges
 [![Github Actions Status](https://github.com/Legzandra/python-project-lvl1/workflows/make-lint/badge.svg)](https://github.com/Legzandra/python-project-lvl1/actions)
+
+### asciinema recs
+[![asciicast](https://asciinema.org/a/P3Vud8QNTxAr0ejHXo75SJnVi.svg)](https://asciinema.org/a/P3Vud8QNTxAr0ejHXo75SJnVi)
